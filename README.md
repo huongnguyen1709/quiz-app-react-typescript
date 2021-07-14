@@ -5,6 +5,7 @@
 ## About
 
 Quiz-App
+Follow freeCodeCamp.org
 
 ### Built With
 
